@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Masaza",
+      "day": "2021-06-30 u 16:30",
+      "reminder": true
+    },
+    {
+      "text": "Trening",
+      "day": "2021-07-01",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
